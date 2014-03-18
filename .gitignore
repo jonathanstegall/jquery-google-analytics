@@ -1,2 +1,6 @@
 
 _sourcefiles/
+
+*.sublime-project
+
+*.sublime-workspace
